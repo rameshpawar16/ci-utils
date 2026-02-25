@@ -2,7 +2,7 @@ name: Math Utility CI/CD
 
 on:
   push:
-    branches: [ main ]
+    branches: main 
 
 jobs:
   test-and-deploy:
